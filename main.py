@@ -6,4 +6,4 @@ class Open:
     while True:
       zzz.write(self.c)
 # By PythonScratcher (PythonScratcher.eu.org) MIT LICENCE 
-o = Open("chadstorage", 'chadstorage moment|')
+o = Open("fstorage", '12345677890123456789012345678901234567890|')
